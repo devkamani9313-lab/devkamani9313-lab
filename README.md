@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Dev Kamani</h1>
-  <p><b>Computer Engineering Student @ DDU | AI Agent & Automation Architect</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=DEV%20KAMANI&fontSize=100&animation=fadeIn&fontColor=ffffff" width="100%" />
+
+  <h2>Computer Engineering Student | AI Agent Architect</h2>
+  
+  <br>
   
   <p>
     <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -15,17 +18,17 @@
 
 ---
 
-## Executive Summary
+## 🎯 Executive Summary
 
-- **Education**: 2nd-year Computer Engineering Student at Dharmsinh Desai University (DDU).
-- **Focus**: Building AI-powered automation systems, full-stack products, and Agentic Workflows.
-- **Problem Solving**: Active competitive programmer on Codeforces and LeetCode with a strong foundation in Data Structures and Algorithms.
-- **Current Objectives**: Deepening expertise in AI coding infrastructure and shipping scalable enterprise-grade applications.
-- **Availability**: Open for freelance work, internships, and open-source collaborations in AI and Automation.
+- 🎓 **Education**: 2nd-year Computer Engineering Student at Dharmsinh Desai University (DDU).
+- 🤖 **Focus**: Building AI-powered automation systems, full-stack products, and Agentic Workflows.
+- 🧠 **Problem Solving**: Active competitive programmer on Codeforces and LeetCode with a strong foundation in Data Structures and Algorithms.
+- 🚀 **Current Objectives**: Deepening expertise in AI coding infrastructure and shipping scalable enterprise-grade applications.
+- 💼 **Availability**: Open for freelance work, internships, and open-source collaborations in AI and Automation.
 
 ---
 
-## Technical Expertise
+## 💻 Technical Expertise
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,26 +41,26 @@
 
 ---
 
-## Engineering Portfolio
+## 🚀 Engineering Portfolio
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/devkamani9313-lab/leetcode-mentor-agent">LeetCode Mentor Agent</a></h3>
+      <h3>🤖 <a href="https://github.com/devkamani9313-lab/leetcode-mentor-agent">LeetCode Mentor Agent</a></h3>
       <p>Open-source Chrome Extension delivering AI-generated code reviews immediately upon an "Accepted" LeetCode submission.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/devkamani9313-lab/nexus-os">Dev OS — Personal AI OS</a></h3>
+      <h3>🧠 <a href="https://github.com/devkamani9313-lab/nexus-os">Dev OS — Personal AI OS</a></h3>
       <p>A self-built AI Operating System on n8n with a Telegram interface. Features a Master Agent router, Gym Agent, DSA Agent, and a Content Summarizer Agent.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/devkamani9313-lab/PARUL-HACKATHON">Traveloop</a></h3>
+      <h3>🌌 <a href="https://github.com/devkamani9313-lab/PARUL-HACKATHON">Traveloop</a></h3>
       <p>An AI-powered travel planning application featuring a glassmorphism UI and dynamic itinerary generation.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/devkamani9313-lab/agrivision-ai">AgriVision AI</a></h3>
+      <h3>🌱 <a href="https://github.com/devkamani9313-lab/agrivision-ai">AgriVision AI</a></h3>
       <p>A full-stack intelligent agricultural platform facilitating crop disease identification and AI-generated treatment advice.</p>
     </td>
   </tr>
@@ -65,16 +68,16 @@
 
 ---
 
-## Core Competencies & Methodologies
+## ⚙️ Core Competencies & Methodologies
 
-- **System Architecture**: Designing modular, highly available backends using Node.js, Express, and microservice patterns.
-- **AI Integration**: Engineering autonomous agent workflows and leveraging LLM APIs for complex natural language processing tasks.
-- **Agile & DevOps**: Utilizing CI/CD pipelines, strict Git version control, and containerized deployments with Docker.
-- **Algorithmic Efficiency**: Applying advanced data structures to optimize backend logic and ensure scalable performance.
+- 🏗️ **System Architecture**: Designing modular, highly available backends using Node.js, Express, and microservice patterns.
+- 🧠 **AI Integration**: Engineering autonomous agent workflows and leveraging LLM APIs for complex natural language processing tasks.
+- 🔄 **Agile & DevOps**: Utilizing CI/CD pipelines, strict Git version control, and containerized deployments with Docker.
+- ⚡ **Algorithmic Efficiency**: Applying advanced data structures to optimize backend logic and ensure scalable performance.
 
 ---
 
-## Performance & Activity
+## 📊 Performance & Activity
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkamani9313-lab&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
