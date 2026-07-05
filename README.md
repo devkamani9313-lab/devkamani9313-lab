@@ -1,15 +1,21 @@
-<h1 align="center">Hey, I'm Dev Kamani! 👋</h1>
-<h3 align="center">Computer Engineering Student | AI Agent & Automation Architect</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&height=100&lines=Hey,+I'm+Dev+Kamani!+👋;Welcome+to+my+digital+lab!+🚀" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://leetcode.com/devkamani9313"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-</p>
+  <h2>⚡ Transforming Ideas into AI-Powered Reality ⚡</h2>
+  <p>
+    <b>Computer Engineering Student</b> @ <b>DDU</b> &nbsp;|&nbsp; <b>AI Agent Architect</b> &nbsp;|&nbsp; <b>Competitive Programmer</b>
+  </p>
 
-<p align="center">
+  <br>
+
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://leetcode.com/devkamani9313"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  </p>
+
   <img src="https://komarev.com/ghpvc/?username=devkamani9313-lab&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</div>
 
 ---
 
