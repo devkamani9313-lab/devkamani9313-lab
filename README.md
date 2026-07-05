@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=60&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&height=120&lines=DEV+KAMANI" alt="Name" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=DEV%20KAMANI&fontSize=90&fontColor=ffffff&animation=fadeIn" width="100%" />
   
   <h3>Computer Engineering Student | AI Agent & Automation Architect</h3>
 
@@ -53,18 +53,18 @@
 
 <p align="center">
   <a href="https://github.com/devkamani9313-lab/leetcode-mentor-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=leetcode-mentor-agent&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=leetcode-mentor-agent&theme=tokyonight&hide_border=true&cache_bypass=99" />
   </a>
   <a href="https://github.com/devkamani9313-lab/nexus-os">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=nexus-os&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=nexus-os&theme=tokyonight&hide_border=true&cache_bypass=99" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/devkamani9313-lab/PARUL-HACKATHON">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=PARUL-HACKATHON&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=PARUL-HACKATHON&theme=tokyonight&hide_border=true&cache_bypass=99" />
   </a>
   <a href="https://github.com/devkamani9313-lab/agrivision-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=agrivision-ai&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=agrivision-ai&theme=tokyonight&hide_border=true&cache_bypass=99" />
   </a>
 </p>
 
@@ -73,12 +73,12 @@
 ## 📈 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkamani9313-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkamani9313-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devkamani9313-lab&show_icons=true&theme=tokyonight&hide_border=true&cache_bypass=99" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkamani9313-lab&layout=compact&theme=tokyonight&hide_border=true&cache_bypass=99" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkamani9313-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkamani9313-lab&theme=tokyonight&hide_border=true&cache_bypass=99" alt="GitHub Streak" />
 </div>
 
 <br>
