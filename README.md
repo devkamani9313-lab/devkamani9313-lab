@@ -1,29 +1,24 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&height=100&lines=Hey,+I'm+Dev+Kamani!+👋;Welcome+to+my+digital+lab!+🚀" alt="Typing SVG" />
-
-  <h2>⚡ Transforming Ideas into AI-Powered Reality ⚡</h2>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" />
+  <h1>Dev Kamani</h1>
+  <p><b>Computer Engineering Student @ DDU | AI Agent & Automation Architect</b></p>
+  
   <p>
-    <b>Computer Engineering Student</b> @ <b>DDU</b> &nbsp;|&nbsp; <b>AI Agent Architect</b> &nbsp;|&nbsp; <b>Competitive Programmer</b>
+    <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://leetcode.com/devkamani9313"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   </p>
 
-  <br>
-
   <p>
-    <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://leetcode.com/devkamani9313"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+    <img src="https://komarev.com/ghpvc/?username=devkamani9313-lab&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=devkamani9313-lab&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-<img align="right" width="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Boy GIF">
-
-- 🎓 **Education**: 2nd-year CE Student at **DDU (Dharmsinh Desai University)**.
+- 🎓 **Education**: 2nd-year CE Student at **Dharmsinh Desai University (DDU)**.
 - 🤖 **Building**: AI-powered automation systems, full-stack products, and Agentic Workflows.
 - 🧠 **Problem Solving**: Active competitive programmer on Codeforces and LeetCode.
 - 🚀 **Currently**: Deep in AI coding infrastructure and shipping scalable applications.
@@ -31,22 +26,22 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,tailwind,firebase,mongodb,git,docker,linux&perline=14" />
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-FF6666?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6666?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-<table width="100%" align="center">
+<table width="100%">
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/devkamani9313-lab/leetcode-mentor-agent">🤖 LeetCode Mentor Agent</a></h3>
@@ -71,10 +66,10 @@
 
 ---
 
-## 📈 Analytics & Activity
+## Analytics & Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkamani9313-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkamani9313-lab&theme=tokyonight&hide_border=true&border_radius=0" alt="GitHub Streak" />
 </div>
 
 ---
