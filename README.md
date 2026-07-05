@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Dev Kamani</h1>
-  <h2>Computer Engineering Student | AI Agent Architect</h2>
+  <img src="name.svg" alt="Dev Kamani" />
+  <h2>Competitive Programmer & Full-Stack Developer | Building AI Agents, Tools & Integrations</h2>
   
   <br>
   
