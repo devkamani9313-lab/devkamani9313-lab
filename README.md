@@ -1,25 +1,17 @@
-<div align="center">
-  <h1>Hey, I'm Dev Kamani! 👋</h1>
-  <h3>Computer Engineering Student | AI Agent & Automation Architect</h3>
+<h1 align="center">Hey, I'm Dev Kamani! 👋</h1>
+<h3 align="center">Computer Engineering Student | AI Agent & Automation Architect</h3>
 
-  <br>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/devkamani9313"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+</p>
 
-  <p>
-    <a href="https://linkedin.com/in/your-linkedin-handle">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://leetcode.com/devkamani9313">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-    </a>
-  </p>
-
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=devkamani9313-lab&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</div>
+</p>
 
-<br><br>
+---
 
 ## 👨‍💻 About Me
 
@@ -31,7 +23,7 @@
 - 🚀 **Currently**: Deep in AI coding infrastructure and shipping scalable applications.
 - 💼 **Open To**: Freelance work, internships, and open-source collaborations in AI/Automation.
 
-<br><br>
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -44,7 +36,7 @@
   <img src="https://img.shields.io/badge/n8n-FF6666?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-<br>
+---
 
 ## 🔥 Featured Projects
 
@@ -71,7 +63,7 @@
   </tr>
 </table>
 
-<br>
+---
 
 ## 📈 Analytics & Activity
 
@@ -79,6 +71,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkamani9313-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br>
+---
 
 <p align="center"><i>Currently deep in AI coding infrastructure, agentic workflows, and shipping projects worth sharing.</i></p>
