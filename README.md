@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Dev Kamani</h1>
-  <h2>Computer Engineering Student | AI Agent Architect</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=65&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&height=100&lines=DEV+KAMANI" alt="Dev Kamani" />
+  <h2>Competitive Programmer & Full-Stack Developer | Building AI Agents, Tools & Integrations</h2>
   
   <br>
   
