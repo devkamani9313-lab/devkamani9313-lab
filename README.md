@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=c9d1d9&height=120&section=header&text=Dev%20Kamani&fontSize=85" />
-    <img alt="Dev Kamani" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=24292e&height=120&section=header&text=Dev%20Kamani&fontSize=85" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=c9d1d9&height=90&section=header&text=Dev%20Kamani&fontSize=85" />
+    <img alt="Dev Kamani" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=24292e&height=90&section=header&text=Dev%20Kamani&fontSize=85" />
   </picture>
   <h2>Competitive Programmer & Full-Stack Developer | Building AI Agents, Tools & Integrations</h2>
   
