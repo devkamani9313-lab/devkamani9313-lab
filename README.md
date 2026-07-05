@@ -1,18 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=DEV%20KAMANI&fontSize=100&animation=fadeIn&fontColor=ffffff" width="100%" />
-
+  <h1>Dev Kamani</h1>
   <h2>Computer Engineering Student | AI Agent Architect</h2>
   
   <br>
   
   <p>
-    <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://leetcode.com/devkamani9313"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+    <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://leetcode.com/devkamani9313"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=devkamani9313-lab&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=devkamani9313-lab&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   </p>
 </div>
 
@@ -36,7 +35,7 @@
   </a>
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/n8n-FF6666?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/n8n-FF6666?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ---
