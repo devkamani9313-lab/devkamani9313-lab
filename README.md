@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=DEV%20KAMANI&fontSize=90&fontColor=ffffff&animation=fadeIn" width="100%" />
-  
+  <h1>Hey, I'm Dev Kamani! 👋</h1>
   <h3>Computer Engineering Student | AI Agent & Automation Architect</h3>
 
   <br>
@@ -43,42 +42,41 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-FF6666?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Groq_API-blueviolet?style=for-the-badge" alt="Groq" />
-  <img src="https://img.shields.io/badge/DeepSeek-445f9d?style=for-the-badge" alt="DeepSeek" />
 </p>
 
 <br>
 
 ## 🔥 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/devkamani9313-lab/leetcode-mentor-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=leetcode-mentor-agent&theme=tokyonight&hide_border=true&cache_bypass=99" />
-  </a>
-  <a href="https://github.com/devkamani9313-lab/nexus-os">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=nexus-os&theme=tokyonight&hide_border=true&cache_bypass=99" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/devkamani9313-lab/PARUL-HACKATHON">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=PARUL-HACKATHON&theme=tokyonight&hide_border=true&cache_bypass=99" />
-  </a>
-  <a href="https://github.com/devkamani9313-lab/agrivision-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devkamani9313-lab&repo=agrivision-ai&theme=tokyonight&hide_border=true&cache_bypass=99" />
-  </a>
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/devkamani9313-lab/leetcode-mentor-agent">🤖 LeetCode Mentor Agent</a></h3>
+      <p>Open-source Chrome Extension that delivers AI-generated code reviews the moment you get an "Accepted" submission on LeetCode.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/devkamani9313-lab/nexus-os">🧠 Dev OS — Personal AI OS</a></h3>
+      <p>A self-built AI OS on n8n with a Telegram interface. Features a Master Agent router, Gym Agent, DSA Agent, and a Content Summarizer Agent.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/devkamani9313-lab/PARUL-HACKATHON">🌌 Traveloop</a></h3>
+      <p>An AI-powered, elite travel planning application with a stunning glassmorphism UI and dynamic itinerary generation.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/devkamani9313-lab/agrivision-ai">🌱 AgriVision AI</a></h3>
+      <p>A full-stack intelligent agricultural platform that helps farmers identify crop diseases and receive AI-generated treatment advice.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ## 📈 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkamani9313-lab&show_icons=true&theme=tokyonight&hide_border=true&cache_bypass=99" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkamani9313-lab&layout=compact&theme=tokyonight&hide_border=true&cache_bypass=99" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkamani9313-lab&theme=tokyonight&hide_border=true&cache_bypass=99" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkamani9313-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
